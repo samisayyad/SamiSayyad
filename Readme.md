@@ -2,7 +2,7 @@
  CSE’26 @ KSSEM | Full Stack Developer (MERN), JavaScript | Cloud & DevOps Learner | 3D & VFX Enthusiast <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivanshk.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadsami01/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/shivanshk.dev](https://www.instagram.com/samisayyad_ss?igsh=MXYzZHd2ZGF6eGQ5Yg%3D%3D&utm_source=qr)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadsami01/) 
 
 # 💻 Tech Stack:
 
